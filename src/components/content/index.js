@@ -2,9 +2,9 @@ import React from 'react';
 
 import './_index.css';
 
-const Content = ({children}) => {
+const Content = ({className, children}) => {
   return (
-    <div className="Content">{children}</div>
+    <div className={`Content ${className}`}>{children}</div>
   )
 };
 
