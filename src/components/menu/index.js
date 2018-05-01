@@ -3,7 +3,7 @@ import React from 'react';
 import Content from '../content';
 import Heading from '../heading';
 
-import luchadore from '../../images/luchadore.png';
+// import luchadore from '../../images/luchadore.png';
 
 import './_index.css';
 
